@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi, I'm Sara
 
+<img class="hero-image" src="./images/software_dungeon.png" width="100%"  style="margin: 10px; image-rendering: pixelated;">
 
 
 <!--
