@@ -2,11 +2,11 @@
 
 🌵 Based in Tucson, Arizona |  💻 Research Computing Facilitator
 
-<img align="right" width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaraMWillis&ambient_gradient" alt="GitHub statistics">
-
 I'm an HPC person who spends time helping scientists and researchers use supercomputers for their work. This mostly involves HPC consulting, debugging, troubleshooting, software installations, [technical documentation](https://hpcdocs.hpc.arizona.edu/), and wrangling any other computer woes that come along.
 
-<br><br><br><br>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SaraMWillis&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=SaraMWillis&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical)
+
+
 
 ## 💻 What I work With
 
