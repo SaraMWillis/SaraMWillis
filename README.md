@@ -26,14 +26,6 @@ The `nodes-busy` CLI (a program used to visualize an HPC cluster's usage) in par
 
 I've recently started keeping a [collection of HPC notes](https://saramwillis.github.io/hpc-field-notes/), build recipes, cheat sheets, and examples for personal reference. It seemed the logical alternative to pasting unannotated commands randomly into Slack messages to myself or untitled TextEdit files hidden in unintuitive locations on my personal computer. 
 
-## 🧪 Things I'm Working On
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=SaraMWillis&repo=UA-ResearchComputing-HPC%2Fhpc-documentation&show_owner=true&description_lines_count=3&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/UA-ResearchComputing-HPC/hpc-documentation) [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=SaraMWillis&repo=UA-ResearchComputing-HPC%2Fhpc-documentation&show_owner=true&description_lines_count=3&theme=radical#gh-dark-mode-only)](https://github.com/UA-ResearchComputing-HPC/hpc-documentation)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=SaraMWillis&repo=SaraMWillis%2Fhpc-field-notes&show_owner=true&description_lines_count=3&theme=radical)](https://github.com/SaraMWillis/hpc-field-notes)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=SaraMWillis&repo=SaraMWillis%2Fslurm-wrappers&show_owner=true&description_lines_count=3&theme=radical)](https://github.com/SaraMWillis/slurm-wrappers)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=SaraMWillis&repo=SaraMWillis%2Fcloud_storage_benchmarking&show_owner=true&description_lines_count=3&theme=radical)](https://github.com/SaraMWillis/cloud_storage_benchmarking)
 
 ## 🎓 Background
 
