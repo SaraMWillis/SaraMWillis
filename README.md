@@ -28,7 +28,8 @@ I've recently started keeping a [collection of HPC notes](https://saramwillis.gi
 
 ## 🧪 Things I'm Working On
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=SaraMWillis&repo=UA-ResearchComputing-HPC%2Fhpc-documentation&show_owner=true&description_lines_count=3&theme=radical)](https://github.com/UA-ResearchComputing-HPC/hpc-documentation)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=SaraMWillis&repo=UA-ResearchComputing-HPC%2Fhpc-documentation&show_owner=true&description_lines_count=3&theme=catppuccin_latte#gh-light-mode-only)](https://github.com/UA-ResearchComputing-HPC/hpc-documentation) [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=SaraMWillis&repo=UA-ResearchComputing-HPC%2Fhpc-documentation&show_owner=true&description_lines_count=3&theme=radical#gh-dark-mode-only)](https://github.com/UA-ResearchComputing-HPC/hpc-documentation)
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=SaraMWillis&repo=SaraMWillis%2Fhpc-field-notes&show_owner=true&description_lines_count=3&theme=radical)](https://github.com/SaraMWillis/hpc-field-notes)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=SaraMWillis&repo=SaraMWillis%2Fslurm-wrappers&show_owner=true&description_lines_count=3&theme=radical)](https://github.com/SaraMWillis/slurm-wrappers)
