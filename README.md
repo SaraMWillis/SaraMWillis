@@ -4,7 +4,7 @@
 
 I'm an HPC person who spends time helping scientists and researchers use supercomputers for their work. This mostly involves HPC consulting, debugging, troubleshooting, software installations, [technical documentation](https://hpcdocs.hpc.arizona.edu/), and wrangling any other computer woes that come along.
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SaraMWillis&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=SaraMWillis&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SaraMWillis&rank_icon=github&show_icons=true&include_all_commits=true&theme=catppuccin_latte)](https://github-stats-extended.vercel.app/api?username=SaraMWillis&rank_icon=github&show_icons=true&include_all_commits=true&theme=catppuccin_latte#gh-light-mode-only) [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SaraMWillis&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=SaraMWillis&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical#gh-dark-mode-only)
 
 
 
